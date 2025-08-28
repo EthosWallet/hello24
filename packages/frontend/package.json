@@ -1,0 +1,13 @@
+
+{
+  "name": "frontend-app",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "../packages10/*"
+  ],
+  "dependencies": {
+    "react": "^18.0.0",
+    "my-internal-frontend-package": "^2.0.0"
+  }
+}
